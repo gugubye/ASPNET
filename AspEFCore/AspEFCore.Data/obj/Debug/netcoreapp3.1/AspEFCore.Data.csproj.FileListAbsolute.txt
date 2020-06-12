@@ -1,0 +1,5 @@
+D:\1大二下\软件开发实训\222\AspEFCore\AspEFCore.Data\bin\Debug\netcoreapp3.1\AspEFCore.Data.deps.json
+D:\1大二下\软件开发实训\222\AspEFCore\AspEFCore.Data\bin\Debug\netcoreapp3.1\AspEFCore.Data.dll
+D:\1大二下\软件开发实训\222\AspEFCore\AspEFCore.Data\obj\Debug\netcoreapp3.1\AspEFCore.Data.csprojAssemblyReference.cache
+D:\1大二下\软件开发实训\222\AspEFCore\AspEFCore.Data\obj\Debug\netcoreapp3.1\AspEFCore.Data.AssemblyInfoInputs.cache
+D:\1大二下\软件开发实训\222\AspEFCore\AspEFCore.Data\obj\Debug\netcoreapp3.1\AspEFCore.Data.AssemblyInfo.cs

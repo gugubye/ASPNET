@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspEFCore.Data\AspEFCore.Data.csproj" />
+    <ProjectReference Include="..\AspEFCore.Domain\AspEFCore.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

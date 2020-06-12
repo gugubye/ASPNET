@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mz6mkpy42gYAskSQNUB9wPYwwzqRJQPHP6QdELvpD3c9ifOuibddAdEpYSbpCBa9cV/L5e90Y1HzrTTzv/B9TQ==",
+  "success": true,
+  "projectFilePath": "D:\\1大二下\\软件开发实训\\222\\AspEFCore\\AspEFCore.Domain\\AspEFCore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xinxin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
